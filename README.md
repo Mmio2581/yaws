@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
